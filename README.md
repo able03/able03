@@ -1,43 +1,43 @@
-<h1 align="center">Hi, I'm Lee D. Ferrer 👋</h1>
+<h1 align="center">Hi, I'm Lee D. Ferrer</h1>
 <h3 align="center">AI Automation Developer · Full-Stack Developer · Chatbots & Voice Agents</h3>
 
 <p align="center">
   I help businesses save time, cut manual work, and grow through custom software and AI.<br/>
-  📍 Rosario, Cavite, Philippines
+  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238b949e" width="14" alt=""/> Rosario, Cavite, Philippines
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lee-ferrer-782168251/"><img src="https://img.shields.io/badge/LinkedIn-Lee%20Ferrer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://lee-ferrer.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-lee--ferrer.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://leeferrer-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-leeferrer--resume.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:leedferrer@gmail.com"><img src="https://img.shields.io/badge/Email-leedferrer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/able03"><img src="https://img.shields.io/badge/GitHub-able03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="22" alt=""/> About Me
 
-- 🤖 I build **conversational AI agents**, **voice agents**, and **workflow automations** that connect LLMs to CRMs, calendars, messaging, and publishing tools.
-- 🧩 I ship **database-backed web apps and dashboards** with React, TypeScript, and Supabase.
-- 🛠️ I use **Claude Code** and **OpenAI Codex** daily for agentic coding: inspecting repos, implementing features, debugging integrations, and verifying changes.
-- 🎓 BS Information Technology student at **STI College Rosario** (Sept 2022 – Present).
-- 💬 Ask me about **n8n, GoHighLevel, Vapi / Retell AI, Supabase, and LLM tool calling**.
-
----
-
-## 🏆 Credentials & Recognition
-
-| | |
-|---|---|
-| 🎓 **Latin Honors** | Cum Laude |
-| 🥇 **STI College Codefest** | National Champion |
-| 🥈 **STI College Codefest** | Two-time Cluster Champion |
-| 🥉 **STI College Codefest** | Three-time Local Champion |
-| ☕ **Oracle Academy** | Java Fundamentals (course completion) |
+- Build **conversational AI agents**, **voice agents**, and **workflow automations** that connect LLMs to CRMs, calendars, messaging, and publishing tools.
+- Ship **database-backed web apps and dashboards** with React, TypeScript, and Supabase.
+- Use **Claude Code** and **OpenAI Codex** daily for agentic coding: inspecting repos, implementing features, debugging integrations, and verifying changes.
+- BS Information Technology student at **STI College Rosario** (Sept 2022 – Present).
+- Ask me about **n8n, GoHighLevel, Vapi / Retell AI, Supabase, and LLM tool calling**.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/award.svg?color=%2358a6ff" width="22" alt=""/> Credentials & Recognition
+
+| | Recognition | Detail |
+|:---:|---|---|
+| <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="20" alt=""/> | **Latin Honors** | Cum Laude |
+| <img src="https://api.iconify.design/lucide/trophy.svg?color=%23d4a72c" width="20" alt=""/> | **STI College Codefest** | National Champion |
+| <img src="https://api.iconify.design/lucide/trophy.svg?color=%238b949e" width="20" alt=""/> | **STI College Codefest** | Two-time Cluster Champion |
+| <img src="https://api.iconify.design/lucide/trophy.svg?color=%23a0522d" width="20" alt=""/> | **STI College Codefest** | Three-time Local Champion |
+| <img src="https://api.iconify.design/simple-icons/oracle.svg?color=%23F80000" width="20" alt=""/> | **Oracle Academy** | Java Fundamentals (course completion) |
+
+---
+
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff" width="22" alt=""/> Tech Stack
 
 **Languages & Frameworks**
 
@@ -68,9 +68,9 @@
 
 ---
 
-## 🚀 Featured Work
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="22" alt=""/> Featured Work
 
-### 🤖 AI Automation & Agents
+### <img src="https://api.iconify.design/lucide/bot.svg?color=%238b949e" width="18" alt=""/> AI Automation & Agents
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -83,19 +83,19 @@
 | **AI Sales Call Simulator** | Practice live sales calls against AI prospect personas, then get an automatic BANT/MEDDIC scorecard and coaching. | React · Vite · Vapi · GPT-4o-mini · Vercel |
 | **Hiraya** | A portable AI "agency" of 16 specialized agents (marketing, dev, creative) exportable to Claude, ChatGPT, Cursor, and the API. | Prompt engineering · Markdown |
 
-### 🧱 Full-Stack Products
+### <img src="https://api.iconify.design/lucide/layers.svg?color=%238b949e" width="18" alt=""/> Full-Stack Products
 
 | Project | What it does | Stack |
 |---|---|---|
 | **Multi-Client AI Operations Dashboard** | Dashboards for agent settings, campaigns, lead imports, call transcripts, and analytics, with role-based access and per-client data isolation. | React · TypeScript · Supabase · PostgreSQL |
 | **AI Content & Publishing Workspace** | Chatbot-led workspace that generates on-brand content from client knowledge, with review/approval, image selection, publishing, and broken-link checks. | React · TypeScript · LLM APIs |
-| **Automake** 🔒 | Self-hosted, AI-native workflow automation platform with a drag-and-drop node editor, webhooks, triggers, and JSON import/export. | React · React Flow · Node.js |
+| **Automake** <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="13" alt="Private"/> | Self-hosted, AI-native workflow automation platform with a drag-and-drop node editor, webhooks, triggers, and JSON import/export. | React · React Flow · Node.js |
 | **MailCheck** | Email-validation API and dashboard: MX/SMTP/catch-all checks, hashed API keys, rate limiting, and atomic credit accounting. | Go · HTMX · PostgreSQL · Redis |
-| **ClipForge** 🔒 | Turns long videos into short clips with a processing queue, clip library, bulk actions, and inline editing. | Python · React · Worker queue |
+| **ClipForge** <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="13" alt="Private"/> | Turns long videos into short clips with a processing queue, clip library, bulk actions, and inline editing. | Python · React · Worker queue |
 | **EasySite** | Self-hosted Astro CMS for a single business site: pages, blog, media, lead forms, comments, and scoped APIs. | Astro · Node.js |
 | **[AR E-Commerce for Gumiran](https://github.com/able03/AR-Testing)** | Furniture storefront where customers preview products in their own room with augmented reality. [Live demo →](https://ar-testing-six.vercel.app) | React · WebXR/AR |
 
-### 📱 Android & Codefest Projects (Java)
+### <img src="https://api.iconify.design/lucide/smartphone.svg?color=%238b949e" width="18" alt=""/> Android & Codefest Projects (Java)
 
 | Project | Description |
 |---|---|
@@ -108,11 +108,11 @@
 | [CodefestMay32024](https://github.com/able03/CodefestMay32024) · [codefest2nd](https://github.com/able03/codefest2nd) · [c07defest](https://github.com/able03/c07defest) | Competition builds from STI Codefest |
 | [InforIntegVer2](https://github.com/able03/InforIntegVer2) | Information integration project (C#) |
 
-> 🔒 = private repository. Client automation work is described without client names; sanitized workflows are available on request.
+> <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="13" alt=""/> = private repository. Client automation work is described without client names; sanitized workflows are available on request.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2358a6ff" width="22" alt=""/> GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=able03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lee's GitHub stats"/>
@@ -125,15 +125,15 @@
 
 ---
 
-## 🤝 Let's Work Together
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2358a6ff" width="22" alt=""/> Let's Work Together
 
 I can help you:
 
-- ⚙️ Automate repetitive business processes and eliminate manual data entry
-- 📞 Capture, qualify, and follow up with leads automatically
-- 💬 Build AI assistants that answer customer inquiries 24/7
-- 📈 Build custom dashboards to monitor your business in real time
-- 🌐 Create web and SaaS applications tailored to your workflow
+- Automate repetitive business processes and eliminate manual data entry
+- Capture, qualify, and follow up with leads automatically
+- Build AI assistants that answer customer inquiries 24/7
+- Build custom dashboards to monitor your business in real time
+- Create web and SaaS applications tailored to your workflow
 
 **Have a project or business challenge?** [Send me the details](mailto:leedferrer@gmail.com) and I'll recommend the best solution.
 
