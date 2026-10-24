@@ -3,9 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://leeferrer-resume.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+AI+voice+%26+chat+agents;Automating+workflows+with+n8n;Shipping+React+%2B+Supabase+dashboards;Codefest+National+Champion" alt="Building AI voice and chat agents, automating workflows with n8n, shipping React and Supabase dashboards"/></a>
+</p>
+
+<p align="center">
   I help businesses save time, cut manual work, and grow through custom software and AI.<br/>
-  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238b949e" width="14" alt=""/> Rosario, Cavite, Philippines<br/>
-  <a href="https://leeferrer-resume.vercel.app/"><img height="32" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Building+AI+voice+%26+chat+agents;Automating+workflows+with+n8n;Shipping+React+%2B+Supabase+dashboards;Codefest+National+Champion" alt="Building AI voice and chat agents, automating workflows with n8n, shipping React and Supabase dashboards"/></a>
+  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238b949e" width="14" alt=""/> Rosario, Cavite, Philippines
 </p>
 
 <p align="center">
@@ -36,6 +39,7 @@
 | <img src="https://api.iconify.design/lucide/trophy.svg?color=%238b949e" width="20" alt=""/> | **STI College Codefest** | Two-time Cluster Champion |
 | <img src="https://api.iconify.design/lucide/trophy.svg?color=%23a0522d" width="20" alt=""/> | **STI College Codefest** | Three-time Local Champion |
 | <img src="https://api.iconify.design/simple-icons/oracle.svg?color=%23F80000" width="20" alt=""/> | **Oracle Academy** | Java Fundamentals (course completion) |
+| <img src="https://api.iconify.design/simple-icons/coursera.svg?color=%230056D2" width="20" alt=""/> | **DeepLearning.AI · Coursera** | [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/BTP5V59YNB8F) |
 
 ---
 
