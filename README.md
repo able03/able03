@@ -25,7 +25,7 @@
 - Build **conversational AI agents**, **voice agents**, and **workflow automations** that connect LLMs to CRMs, calendars, messaging, and publishing tools.
 - Ship **database-backed web apps and dashboards** with React, TypeScript, and Supabase.
 - Use **Claude Code** and **OpenAI Codex** daily for agentic coding: inspecting repos, implementing features, debugging integrations, and verifying changes.
-- BS Information Technology student at **STI College Rosario** (Sept 2022 – Present).
+- Graduated **Cum Laude** with a BS in Information Technology from **STI College Rosario** (Sept 2022 – July 2026).
 - Ask me about **n8n, GoHighLevel, Vapi / Retell AI, Supabase, and LLM tool calling**.
 
 ---
@@ -34,7 +34,7 @@
 
 | | Recognition | Detail |
 |:---:|---|---|
-| <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="20" alt=""/> | **Latin Honors** | Cum Laude |
+| <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="20" alt=""/> | **Latin Honors** | Cum Laude, BS Information Technology (STI College Rosario, July 2026) |
 | <img src="https://api.iconify.design/lucide/trophy.svg?color=%23d4a72c" width="20" alt=""/> | **STI College Codefest** | National Champion |
 | <img src="https://api.iconify.design/lucide/trophy.svg?color=%238b949e" width="20" alt=""/> | **STI College Codefest** | Two-time Cluster Champion |
 | <img src="https://api.iconify.design/lucide/trophy.svg?color=%23a0522d" width="20" alt=""/> | **STI College Codefest** | Three-time Local Champion |
@@ -99,7 +99,7 @@
 | **MailCheck** | Email-validation API and dashboard: MX/SMTP/catch-all checks, hashed API keys, rate limiting, and atomic credit accounting. | Go · HTMX · PostgreSQL · Redis |
 | **ClipForge** <img src="https://api.iconify.design/lucide/lock.svg?color=%238b949e" width="13" alt="Private"/> | Turns long videos into short clips with a processing queue, clip library, bulk actions, and inline editing. | Python · React · Worker queue |
 | **EasySite** | Self-hosted Astro CMS for a single business site: pages, blog, media, lead forms, comments, and scoped APIs. | Astro · Node.js |
-| **[AR E-Commerce for Gumiran](https://github.com/able03/AR-Testing)** | Furniture storefront where customers preview products in their own room with augmented reality. [Live demo →](https://ar-testing-six.vercel.app) | React · WebXR/AR |
+| **AR E-Commerce for Gumiran** | Furniture storefront where customers preview products in their own room with augmented reality. | React · WebXR/AR |
 
 ### <img src="https://api.iconify.design/lucide/smartphone.svg?color=%238b949e" width="18" alt=""/> Android & Codefest Projects (Java)
 
