@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Lee D. Ferrer</h1>
-<h3 align="center">AI Automation Developer · Full-Stack Developer · Chatbots & Voice Agents</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lee%20D.%20Ferrer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20Developer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Lee D. Ferrer"/>
+</p>
+
+<p align="center">
+  <a href="https://leeferrer-resume.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+AI+voice+%26+chat+agents;Automating+workflows+with+n8n;Shipping+React+%2B+Supabase+dashboards;Codefest+National+Champion" alt="Building AI voice and chat agents, automating workflows with n8n, shipping React and Supabase dashboards"/></a>
+</p>
 
 <p align="center">
   I help businesses save time, cut manual work, and grow through custom software and AI.<br/>
@@ -138,5 +143,5 @@ I can help you:
 **Have a project or business challenge?** [Send me the details](mailto:leedferrer@gmail.com) and I'll recommend the best solution.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=able03&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt=""/>
 </p>
