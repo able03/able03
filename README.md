@@ -3,12 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://leeferrer-resume.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+AI+voice+%26+chat+agents;Automating+workflows+with+n8n;Shipping+React+%2B+Supabase+dashboards;Codefest+National+Champion" alt="Building AI voice and chat agents, automating workflows with n8n, shipping React and Supabase dashboards"/></a>
-</p>
-
-<p align="center">
   I help businesses save time, cut manual work, and grow through custom software and AI.<br/>
-  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238b949e" width="14" alt=""/> Rosario, Cavite, Philippines
+  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238b949e" width="14" alt=""/> Rosario, Cavite, Philippines<br/>
+  <a href="https://leeferrer-resume.vercel.app/"><img height="32" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Building+AI+voice+%26+chat+agents;Automating+workflows+with+n8n;Shipping+React+%2B+Supabase+dashboards;Codefest+National+Champion" alt="Building AI voice and chat agents, automating workflows with n8n, shipping React and Supabase dashboards"/></a>
 </p>
 
 <p align="center">
